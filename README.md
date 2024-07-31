@@ -1,4 +1,4 @@
-# Object Detection Project
+# Object Identifier Project
 
 ## Abstract
 - Developed and implemented an object detection project using Python and TensorFlow's Object Detection API.
